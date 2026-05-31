@@ -4,7 +4,7 @@
 
 - colating成就了 cofang；将方块字造型引入到拉丁大写字母中，使得 cofang得以重启。
 - cofang反哺了 colating; 采用拼音第二和第三声调的方法，使得 Colating的普通拼读，可以拥有更多的发音。
-- 由 colating与 cofang共同衍生出了 colafang。
+- 由 colating与 cofang共同衍生出了 colafang。这导致了 cofang又再次被暂停了。
 
 colafang才是未来的重点。
 
